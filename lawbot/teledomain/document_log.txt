@@ -1,0 +1,19 @@
+Message ID :700|Chat ID :372620892|Username :alages97|Name :ala|File Name : car1.jpg|Mime type : image/jpeg|
+Message ID :702|Chat ID :372620892|Username :alages97|Name :ala|File Name : car13_multiple_images.jpg|Mime type : image/jpeg|
+Message ID :704|Chat ID :372620892|Username :alages97|Name :ala|File Name : car1.jpg|Mime type : image/jpeg|
+Message ID :706|Chat ID :372620892|Username :alages97|Name :ala|File Name : car2.jpg|Mime type : image/jpeg|
+Message ID :708|Chat ID :372620892|Username :alages97|Name :ala|File Name : car3.jpg|Mime type : image/jpeg|
+Message ID :739|Chat ID :372620892|Username :alages97|Name :ala|File Name : car1.jpg|Mime type : image/jpeg|
+Message ID :753|Chat ID :372620892|Username :alages97|Name :ala|File Name : car16.jpg|Mime type : image/jpeg|
+Message ID :757|Chat ID :372620892|Username :alages97|Name :ala|File Name : car1.jpg|Mime type : image/jpeg|
+Message ID :765|Chat ID :372620892|Username :alages97|Name :ala|File Name : car15_noisy.jpeg|Mime type : image/jpeg|
+Message ID :775|Chat ID :372620892|Username :alages97|Name :ala|File Name : car7.jpg|Mime type : image/jpeg|
+Message ID :777|Chat ID :372620892|Username :alages97|Name :ala|File Name : car1.jpg|Mime type : image/jpeg|
+Message ID :778|Chat ID :372620892|Username :alages97|Name :ala|File Name : car3.jpg|Mime type : image/jpeg|
+Message ID :779|Chat ID :372620892|Username :alages97|Name :ala|File Name : car2.jpg|Mime type : image/jpeg|
+Message ID :981|Chat ID :372620892|Username :alages97|Name :ala|File Name : DiodeSDK.exe|Mime type : application/x-ms-dos-executable|
+Message ID :984|Chat ID :372620892|Username :alages97|Name :ala|File Name : 1to7.png|Mime type : image/png|
+Message ID :993|Chat ID :372620892|Username :alages97|Name :ala|File Name : docker-compose.override.yml|Mime type : application/x-yaml|
+Message ID :997|Chat ID :372620892|Username :alages97|Name :ala|File Name : Report for training of CapsNet.odt|Mime type : application/vnd.oasis.opendocument.text|
+Message ID :1000|Chat ID :372620892|Username :alages97|Name :ala|File Name : config.cfg|
+Message ID :1002|Chat ID :372620892|Username :alages97|Name :ala|File Name : config.cfg|

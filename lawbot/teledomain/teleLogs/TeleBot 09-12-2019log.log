@@ -1,0 +1,108 @@
+11:27:15 INFO ============== Start =================
+11:27:15 INFO Time Started: 11:27:15
+11:27:15 INFO main: TeleBot Started
+11:27:15 INFO ======================================
+11:27:15 INFO Starting new HTTPS connection (1): api.telegram.org
+11:28:30 INFO main: Message ID :539|Chat ID :372620892|Username :alages97|Name :ala|Text : awfhjaf|
+
+11:28:39 INFO main: Message ID :540|Chat ID :372620892|Username :alages97|Name :ala|Text : fafahfe|
+
+11:29:47 INFO util: Moving file: message539.txt to C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./testMoveDir/
+11:29:47 INFO util: Moving file: message539.txt to C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./testMoveDir/
+11:29:47 INFO util: Moving file: message540.txt to C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./testMoveDir/
+11:29:47 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./testMoveDir/
+11:29:47 INFO main: Waiting to receive Telegram messages...
+11:29:47 INFO ===============
+11:29:47 INFO Starting new HTTPS connection (1): api.telegram.org
+11:29:47 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./testMoveDir/
+11:29:47 INFO main: Waiting to receive Telegram messages...
+11:29:47 INFO ===============
+11:29:47 INFO Starting new HTTPS connection (1): api.telegram.org
+11:29:48 INFO main: Message ID :541|Chat ID :818957102|Username :Wmtan90|Name :Wei Ming Tan|Text : Test|
+
+11:29:48 INFO util: Moving file: message541.txt to C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./testMoveDir/
+11:29:48 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./testMoveDir/
+11:29:48 INFO main: Waiting to receive Telegram messages...
+11:29:48 INFO ===============
+11:29:59 INFO main: Message ID :545|Chat ID :372620892|Username :alages97|Name :ala|Text : afiojhea|
+
+11:29:59 INFO util: Moving file: message545.txt to C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./testMoveDir/
+11:29:59 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./testMoveDir/
+11:29:59 INFO main: Waiting to receive Telegram messages...
+11:29:59 INFO ===============
+12:05:20 INFO ============== Start =================
+12:05:20 INFO Time Started: 12:05:20
+12:05:20 INFO main: TeleBot Started
+12:05:20 INFO ======================================
+12:05:20 INFO Starting new HTTPS connection (1): api.telegram.org
+12:06:31 INFO main: Message ID :547|Chat ID :372620892|Username :alages97|Name :ala|Text : lala|
+
+12:06:31 INFO util: Moving file: message547.txt to F:\
+12:06:31 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to F:\
+12:06:31 INFO main: Waiting to receive Telegram messages...
+12:06:31 INFO ===============
+12:06:31 INFO Starting new HTTPS connection (1): api.telegram.org
+12:07:34 INFO main: Message ID :549|Chat ID :372620892|Username :alages97|Name :ala|Text : ddd|
+
+12:07:34 INFO util: Moving file: message549.txt to F:\
+12:07:34 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to F:\
+12:07:34 INFO main: Waiting to receive Telegram messages...
+12:07:34 INFO ===============
+12:09:54 INFO ============== Start =================
+12:09:54 INFO Time Started: 12:09:54
+12:09:54 INFO main: TeleBot Started
+12:09:54 INFO ======================================
+12:09:54 INFO Starting new HTTPS connection (1): api.telegram.org
+12:09:57 INFO main: Message ID :551|Chat ID :372620892|Username :alages97|Name :ala|Text : ddd|
+
+12:09:57 INFO util: Moving file: message551.txt to F:\
+12:09:57 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to F:\
+12:09:57 INFO main: Waiting to receive Telegram messages...
+12:09:57 INFO ===============
+12:09:57 INFO Starting new HTTPS connection (1): api.telegram.org
+12:12:40 INFO main: Message ID :553|Chat ID :372620892|Username :alages97|Name :ala|PHOTO |
+
+12:12:40 INFO Starting new HTTPS connection (1): api.telegram.org
+12:12:42 INFO main: Created file attoTransfer/picture553.jpg
+12:12:42 INFO util: Moving file: picture553.jpg to F:\
+12:12:42 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to F:\
+12:12:42 INFO main: Waiting to receive Telegram messages...
+12:12:42 INFO ===============
+12:12:54 INFO main: Created file attoTransfer/audio555.mp3
+12:12:54 INFO util: Moving file: audio555.mp3 to F:\
+12:12:54 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to F:\
+12:12:54 INFO main: Waiting to receive Telegram messages...
+12:12:54 INFO ===============
+12:13:12 INFO main: Created file attoTransfer/video557.mp4
+12:13:12 INFO util: Moving file: video557.mp4 to F:\
+12:13:12 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to F:\
+12:13:12 INFO main: Waiting to receive Telegram messages...
+12:13:12 INFO ===============
+12:25:20 INFO ============== Start =================
+12:25:20 INFO Time Started: 12:25:20
+12:25:20 INFO main: TeleBot Started
+12:25:20 INFO ======================================
+12:25:20 INFO Starting new HTTPS connection (1): api.telegram.org
+12:25:20 INFO main: Message ID :560|Chat ID :372620892|Username :alages97|Name :ala|Text : dd|
+
+12:25:20 INFO util: Moving file: message559.txt to F:\
+12:25:20 INFO util: Moving file: message560.txt to F:\
+12:25:20 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to F:\
+12:25:20 INFO main: Waiting to receive Telegram messages...
+12:25:20 INFO ===============
+12:25:20 INFO Starting new HTTPS connection (1): api.telegram.org
+12:27:54 INFO ============== Start =================
+12:27:54 INFO Time Started: 12:27:54
+12:27:54 INFO main: TeleBot Started
+12:27:54 INFO ======================================
+12:27:54 INFO Starting new HTTPS connection (1): api.telegram.org
+12:28:01 INFO util: Moving file: message562.txt to F:\
+12:28:01 INFO util: Moving file: message563.txt to F:\
+12:28:01 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to F:\
+12:28:01 INFO main: Waiting to receive Telegram messages...
+12:28:01 INFO ===============
+12:28:01 INFO Starting new HTTPS connection (1): api.telegram.org
+12:29:23 INFO util: Moving file: message565.txt to F:\
+12:29:23 INFO main: Transferring from: C:\Users\alant\Desktop\Alages\telegram-gateway-master (Edited WM)\telegram-extractor-master\src\./toTransfer/ to F:\
+12:29:23 INFO main: Waiting to receive Telegram messages...
+12:29:23 INFO ===============

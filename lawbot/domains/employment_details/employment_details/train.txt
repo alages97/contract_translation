@@ -1,0 +1,8 @@
+EMPLOYEE :
+Employee :
+The employee is :
+THE EMPLOYEE IS :
+employee
+EMPLOYEE
+Employee's name is
+
